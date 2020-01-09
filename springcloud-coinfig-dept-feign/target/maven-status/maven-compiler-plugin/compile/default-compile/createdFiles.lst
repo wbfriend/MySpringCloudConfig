@@ -1,0 +1,5 @@
+com\my\springcloud\feign\controller\DeptClentFeignController.class
+com\my\springcloud\feign\service\DeptCleignService.class
+com\my\springcloud\feign\SpringcloudCoinfigDeptFeignApplication.class
+com\my\springcloud\feign\service\DeptFallbackFactoryError.class
+com\my\springcloud\feign\service\DeptFallbackFactoryError$1.class

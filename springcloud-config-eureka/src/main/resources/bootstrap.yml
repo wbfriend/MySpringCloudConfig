@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: springcloud-config-eureka
+      profile: dev
+      label: master
+      uri: http://my.config.con:7002

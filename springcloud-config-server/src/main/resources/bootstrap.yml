@@ -1,0 +1,10 @@
+server:
+  port: 7002
+spring:
+  application:
+    name: springcloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/wbfriend/springcloud-config.git

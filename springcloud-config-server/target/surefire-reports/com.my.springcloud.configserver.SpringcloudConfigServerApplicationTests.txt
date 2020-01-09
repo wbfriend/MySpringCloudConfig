@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.my.springcloud.configserver.SpringcloudConfigServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.042 s - in com.my.springcloud.configserver.SpringcloudConfigServerApplicationTests

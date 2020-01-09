@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: springcloud-config-zuul
+      label: master
+      profile: dev
+      uri: http://my.config.con:7002
